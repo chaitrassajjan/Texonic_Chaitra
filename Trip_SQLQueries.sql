@@ -65,4 +65,25 @@ GROUP BY Request_at;
 --------------------------------------------------------
 
 
+Explaintation on Result
+
+On 2013-10-01:
+
+- There were 4 requests in total, 2 of which were canceled.
+- However, the request with Id=2 was made by a banned client (User_Id=2), so it is ignored in the calculation.
+- Hence there are 3 unbanned requests in total, 1 of which was canceled.
+- The Cancellation Rate is (1 / 3) = 0.33
+
+  On 2013-10-02:
+- There were 3 requests in total, 0 of which were canceled.
+- The request with Id=6 was made by a banned client, so it is ignored.
+- Hence there are 2 unbanned requests in total, 0 of which were canceled.
+- The Cancellation Rate is (0 / 2) = 0.00
+
+  On 2013-10-03:
+- There were 3 requests in total, 1 of which was canceled.
+- The request with Id=8 was made by a banned client, so it is ignored.
+- Hence there are 2 unbanned request in total, 1 of which were canceled.
+- The Cancellation Rate is (1 / 2) = 0.50
+
 
