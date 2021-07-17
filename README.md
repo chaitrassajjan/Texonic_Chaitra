@@ -13,7 +13,7 @@ Here I have used Java programming language to calculate the Maximum Profit
 
 ##Problem 3 and ##Problem 4
 
-Here I have used MySQL server to run the SQL Queries and I have posted the SQL Queries 
+Here I have used MS MySQL server to run the SQL Queries and I have posted the SQL Queries 
 -> To create the database, 
 -> To create tables, 
 -> To insert the values into tables, 
