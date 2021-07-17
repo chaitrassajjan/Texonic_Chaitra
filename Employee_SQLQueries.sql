@@ -65,5 +65,11 @@ ORDER BY LanguageName DESC;
 --------------------------------------------------------
 --------------------------------------------------------
 
+Explaination on Result
 
+- In SQL programming language Janet has done maximum number of commits so Janet will get highest Salary.
+- In Python programming language Joe has done maximum number of commits so Joe will get highest Salary.
+- In PHP programming language Max has done maximum number of commits so Max will get highest Salary.
+- In JavaScript programming language Henry has done maximum number of commits so Henry will get highest Salary.
+- In C++ programming language Virat has done maximum number of commits so Virat will get highest Salary.
 
