@@ -3,12 +3,12 @@ Assignment questions regarding Internship in Texonic Instruments
 
 ##Problem 1
 
-Here I have used Java programming language to convert an Integer value to its Roman Numeral
+Here I have used Java and Python programming language to convert an Integer value to its Roman Numeral
 
 
 ##Problem 2
 
-Here I have used Java programming language to calculate the Maximum Profit
+Here I have used Java and Python programming language to calculate the Maximum Profit
 
 
 ##Problem 3 and ##Problem 4
